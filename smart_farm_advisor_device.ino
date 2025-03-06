@@ -10,7 +10,7 @@ const char* password = "4321043210";
 
 // Firebase credentials
 #define FIREBASE_HOST "smartfarmadvisorsystem-default-rtdb.firebaseio.com/"
-#define FIREBASE_AUTH "NpWI0fkYlcJhw5VEZMghL0Pad2tprhH4kUXiRBtFq"
+#define FIREBASE_AUTH "NpWI0fkYlcJhw5VEZMghL0Pad2tprhH4kUXiRBtF"
 
 // Sensor Pins
 #define DHTPIN D6
